@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 hi im alex i love to code, build, design and lift weights <br>im currently learning java <br>i would love to work on any kind of projects 
 
 
